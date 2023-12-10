@@ -6,7 +6,7 @@ In this peoject, I will apply my data-cleaning skills to process information abo
 
 They have supplied me with a csv file called "bank_marketing.csv", which I will then clean, reformat, and split the data, saving three final csv files. Specifically, the three files should have the names and contents as requested.
 
-I will demonstrat my skills to modify values, add new features, convert data types, and save data into multiple files.
+I will demonstrate my skills to modify values, add new features, convert data types, and save data into multiple files.
 
 
 
